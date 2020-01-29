@@ -1,2 +1,2 @@
 # jat-rail-time-series
-Time Series Foricasting to a jata rail demand
+Time Series Foricasting for jat rail demand
