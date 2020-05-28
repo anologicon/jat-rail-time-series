@@ -1,2 +1,2 @@
-# jat-rail-time-series
-Time Series Foricasting for jat rail demand
+# jet-rail-time-series
+Time Series Forecasting for jet rail demand
